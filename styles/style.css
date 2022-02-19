@@ -7,7 +7,17 @@ body{
   scrollbar-width: none;
 }
 
-/* .video-container {
+.dropdown-item { 
+  position: static !important;
+  text-align: center; 
+} 
+
+.dropdown-menu { 
+  margin-top: relative !important; 
+  width: 100% !important;
+}
+
+.video-container {
   position: top;
   left: 0;
   right: 0; 
@@ -17,7 +27,7 @@ body{
   min-height: 100%;
   overflow: hidden;
   z-index: -1000;
-} */
+}
 
 header {
   position: relative;
@@ -60,4 +70,8 @@ header .overlay {
 }
 div.recipedisplayhome {
   text-align: center;
+}
+
+.card-text{
+  text-align: justify;
 }
