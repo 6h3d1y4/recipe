@@ -1,14 +1,8 @@
 
-/* video styles */
-#video-container {
-  width: 1536px;
-  height: 864px;
+video {
   position: absolute;
-  top: -55px;
-  left: 0px;
-}
-#video-container > video {
-  vertical-align: baseline;
-  display: inline-block;
-  object-fit: fill;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
 }
