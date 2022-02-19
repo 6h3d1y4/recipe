@@ -2,12 +2,8 @@
   border-color: lightgreen;
 }
 .nav-item {
-  font-weight: bold;
+  font-size: large;
 }
-video {
-  position: absolute;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 100%;
+div.recipedisplayhome {
+  text-align: center;
 }
