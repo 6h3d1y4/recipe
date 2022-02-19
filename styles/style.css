@@ -68,6 +68,12 @@ header .overlay {
   opacity: 0;
   z-index: 1;
 }
+.display-3{
+  font-size: 100px;
+}
+.lead{
+  font-size: 50px;
+}
 div.recipedisplayhome {
   text-align: center;
 }
