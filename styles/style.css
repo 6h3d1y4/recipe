@@ -1,0 +1,14 @@
+
+/* video styles */
+#video-container {
+  width: 1536px;
+  height: 864px;
+  position: absolute;
+  top: -55px;
+  left: 0px;
+}
+#video-container > video {
+  vertical-align: baseline;
+  display: inline-block;
+  object-fit: fill;
+}
