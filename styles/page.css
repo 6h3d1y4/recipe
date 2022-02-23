@@ -1,0 +1,51 @@
+* {border: 0 !important; }
+body::-webkit-scrollbar{
+  display: none;
+}
+h3{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Short Stack', cursive;
+  font-weight:500;
+  color: white;
+}
+body{
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  background-color: grey;
+  padding-top: 150px;
+}
+
+.navbar-brand{
+  font-size: 40px;
+  font-family: 'Short Stack', cursive;
+  font-weight: bolder;
+  color: white;
+}
+
+.navbar{
+  font-family: 'Short Stack', cursive;
+  color: white !important;
+  }
+
+.display-3{
+  font-size: 100px;
+  font-family: 'Short Stack', cursive;
+}
+.lead{
+  font-size: 50px;
+  font-family: 'Short Stack', cursive;
+}
+div.recipedisplayhome {
+  text-align: center;
+}
+
+.card-text{
+  text-align: justify;
+}
+
+footer{
+  text-align: center;
+  font-size: 25px;
+  }
+
